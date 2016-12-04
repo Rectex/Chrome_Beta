@@ -1,5 +1,5 @@
-# Chrome - Build 3 (0.0.3) 
 <a href="http://cooltext.com"><img src="https://images.cooltext.com/4833005.png" width="354" height="92" alt="Chrome" /></a>
+# Chrome | Build 3 (0.0.3)
 The Chrome is a Minecraft: Pocket Edition server engine project! It is beta, you can test the engine on your server. Have fun!
 # How you can set up the "Chrome"?
 It's easy. Download the latest phar from here, and put it to your server's folder. Rename the phar to PocketMine-MP.phar!
